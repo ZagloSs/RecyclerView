@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">RecicleViewMaster</string>
+    <string-array name="historic_event_names">
+        <item>Inicio de la guerra del Peloponeso</item>
+        <item>Caida del imperio romano</item>
+        <item>Fundacion mitica de roma</item>
+        <item>Primer ataque vikingo</item>
+        <item>Coronacion de Carlomagno</item>
+        <item>Batalla de las Navas de Tolosa</item>
+        <item>Toma de Constantinopla</item>
+        <item>Conquista de Granada</item>
+        <item>Llegada de los europeos a America</item>
+        <item>Inicio de la Guerra de los 30 años</item>
+        <item>Fin de la dinatia Ming</item>
+        <item>Paz de Westfalia</item>
+        <item>Independencia de las 13 colonias</item>
+        <item>Revolucion francesa</item>
+        <item>Congreso de Viena</item>
+        <item>Comuna de Paris</item>
+        <item>Revolucion bolchevique</item>
+        <item>Fin de la I Guerra Mundial</item>
+        <item>Fin de la II Guerra Mundial</item>
+        <item>11-S</item>
+    </string-array>
+    <string-array name="historic_event_dates">
+        <item>735 a.c</item>
+        <item>431 a.c</item>
+        <item>476</item>
+        <item>789</item>
+        <item>800</item>
+        <item>1212</item>
+        <item>1453</item>
+        <item>1492</item>
+        <item>1492</item>
+        <item>1618</item>
+        <item>1622</item>
+        <item>1648</item>
+        <item>1776</item>
+        <item>1789</item>
+        <item>1815</item>
+        <item>1871</item>
+        <item>1917</item>
+        <item>1918</item>
+        <item>1945</item>
+        <item>2001</item>
+    </string-array>
+    <string-array name="historic_event_locations">
+        <item>Roma</item>
+        <item>Grecia</item>
+        <item>Italia</item>
+        <item>Islas Britanicas</item>
+        <item>Asquigrans</item>
+        <item>Navas de Tolosa</item>
+        <item>Constantinopla</item>
+        <item>Granada</item>
+        <item>America</item>
+        <item>Europa</item>
+        <item>China</item>
+        <item>Europa</item>
+        <item>America</item>
+        <item>Francia</item>
+        <item>Austria</item>
+        <item>Paris</item>
+        <item>Rusia</item>
+        <item>Europa</item>
+        <item>Mundo</item>
+        <item>EEUU</item>
+    </string-array>
+</resources>
